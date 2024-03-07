@@ -1,12 +1,3 @@
-------------------
-CODE FOR INTERVIEW
-------------------
-
-Do Subscribe our Youtube channel and Please like the video if you liked it
-Channel: https://www.youtube.com/channel/UCo9P-eIdR00Fn1gA_ylaHdQ
-Project Playlist: https://www.youtube.com/watch?v=pMR_48AF-A0&list=PL_6klLfS1WqG8mRCW5a-bIViq1DbzQkp9
-
-
 ---------------------------------------------------
 Database Queries for BANK MANAGEMENT SYSTEM Project
 ---------------------------------------------------
@@ -42,15 +33,5 @@ create table bank(pin varchar(10), date varchar(50), type varchar(20), amount va
 
 If you have any questions, feel free to ping us on Instagram/Telegram
 
-Instagram
-username: codeforinterview
-https://www.instagram.com/codeforinterview
 
-Telegram
-username: codeforinterview
-https://t.me/codeforinterview
-
-
-Code For Interview
-Channel: https://www.youtube.com/channel/UCo9P-eIdR00Fn1gA_ylaHdQ
 
